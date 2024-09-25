@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  
+  <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ledgerus tuan sabon Personal Website</title>
+  </head>
+  <body>
+ <nav>
+
+<a href="index.php">Home</a> |
+
+<a href="contact.php">Contact</a> |
+
+<a href="about.php">About me</a>
+
+</nav>
+<hr />
+
+<article>
+
+<h1>About Me</h1><p>
+  Hi, saya adalah Web Developer muda yang berdomisili di Tangerang Selatan. Saat ini sedang belajar HTML untuk membuat profil pribadi.
+  </p>
+  <p>
+    Saya memang masi baru dalam web developmen,karena itu saya tidak akan perna berhenti belajar.
+    </p>
+    <p>
+      Saya ingin menguasai bahasa HTML, CSS, dan Javascript. Simak video lengkap tentang saya.
+</p>
+<p>
+  ISI DENGAN I FRAME
+  </article>
+
+<hr>
+<footer style="text-align: center;">
+  <p>Copyright &copy; 2024 Kevin Permana.</p>
+
+</footer>
+</body>
+</html>
